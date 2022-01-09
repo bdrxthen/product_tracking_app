@@ -1,0 +1,53 @@
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.exe.config
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.exe
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.pdb
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.csprojAssemblyReference.cache
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.GirisEkrani.resources
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Properties.Resources.resources
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.UrunBilgisi.resources
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.csproj.GenerateResource.cache
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.exe
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.pdb
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Depo.resources
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Dukkan.resources
+C:\Users\ulkui\Desktop\Proje\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.GunSonu.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.exe.config
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.exe
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.pdb
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.csprojAssemblyReference.cache
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Depo.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Dukkan.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.GirisEkrani.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.GunSonu.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Properties.Resources.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.UrunBilgisi.resources
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.csproj.GenerateResource.cache
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.exe
+C:\Users\MERTKAN BİRTEK\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.pdb
+C:\Users\ulkui\Desktop\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.exe.config
+C:\Users\ulkui\Desktop\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.exe
+C:\Users\ulkui\Desktop\UrunTakipSistemi\bin\Debug\UrunTakipSistemi.pdb
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.csprojAssemblyReference.cache
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Depo.resources
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Dukkan.resources
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.GirisEkrani.resources
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.GunSonu.resources
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.Properties.Resources.resources
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.UrunBilgisi.resources
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.csproj.GenerateResource.cache
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.exe
+C:\Users\ulkui\Desktop\UrunTakipSistemi\obj\Debug\UrunTakipSistemi.pdb
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\bin\Debug\UrunTakipSistemi.exe.config
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\bin\Debug\UrunTakipSistemi.exe
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\bin\Debug\UrunTakipSistemi.pdb
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.Depo.resources
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.Dukkan.resources
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.GirisEkrani.resources
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.GunSonu.resources
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.Properties.Resources.resources
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.UrunBilgisi.resources
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.exe
+C:\Users\User\Desktop\Proje\UrunTakipSistemi Otomasyon\obj\Debug\UrunTakipSistemi.pdb
